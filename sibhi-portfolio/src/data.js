@@ -71,7 +71,7 @@ export const projects = [
   ],
   status: "Live Demo",
   demo: "YOUR_PORTFOLIO_URL",
-  github: "YOUR_GITHUB_URL"
+  github: "https://github.com/sibhi18/sibhi-simple-portfolio"
 },
 
 
