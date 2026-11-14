@@ -70,7 +70,7 @@ export const projects = [
     "CSS"
   ],
   status: "Live Demo",
-  demo: "YOUR_PORTFOLIO_URL",
+  demo: "https://sibhi-simple-portfolio-341m.vercel.app",
   github: "https://github.com/sibhi18/sibhi-simple-portfolio"
 },
 
